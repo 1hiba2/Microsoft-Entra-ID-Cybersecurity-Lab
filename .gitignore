@@ -1,0 +1,24 @@
+# Private identity and security exports
+*.csv
+*.xlsx
+*.xls
+*.log
+*.json
+
+# Secrets and environment configuration
+.env
+.env.*
+*.pfx
+*.pem
+*.key
+*secret*
+*credential*
+*token*
+
+# Temporary files
+*.tmp
+*.bak
+
+# Local editor files
+.vscode/
+.idea/
