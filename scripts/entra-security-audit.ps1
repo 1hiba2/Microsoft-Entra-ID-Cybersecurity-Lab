@@ -56,4 +56,3 @@ $isMember = $user.Id -in $memberIds
 } | Format-List
 
 # No directory settings are modified.
-# No CSV or sensitive data is saved automatically.
